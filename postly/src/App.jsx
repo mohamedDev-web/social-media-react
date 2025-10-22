@@ -22,10 +22,7 @@ const App = () => {
           <Route path="profile" element={<Profile/>} />
           <Route path="profile/profileId" element={<Profile/>} />
           <Route path="create-post" element={<CreatePost/>} />
-
-
-
-
+          
         </Route>
       </Routes>
     </>
