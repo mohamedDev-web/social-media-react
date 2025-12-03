@@ -20,8 +20,7 @@ const Login = () => {
             </div>
           </div>
           <h1 className='text-3xl md:text-6xl md:pb-2 font-bold 
-        bg-gradient-to-r
-          from-indigo-950 to-indigo-800 bg-clip-text text-transparent ' >
+        bg-gradient-to-r  from-indigo-950 to-indigo-800 bg-clip-text text-transparent ' >
             More than just <br/>friends truly connect
           </h1>
           <p className="flex-1 flex flex-center justify-center p-6 sm:p-10">
